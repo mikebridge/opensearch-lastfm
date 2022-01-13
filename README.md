@@ -34,7 +34,7 @@ python -m pip install -r requirements.txt
 Convert to JL (one JSON document per line)
 
 ```bash
-./converter/convert.py -f ./mylastfmfile.csv > ./tmp/mylastfmfile.jl
+./converter/convert.py -f ./mylastfmfile.csv > ./mylastfmfile.jl
 ```
 
 Bulk-import the data:
