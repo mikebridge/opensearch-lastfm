@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+tmp/
+
+venv/
+.vscode/**
+
+# Intellij / PyCharm
+.idea/**
+*.iml
+
+# Emacs
+*~
+.\#*
+
+*.jl
+*.json
+*.csv
+*.xml
+
